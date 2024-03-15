@@ -1,0 +1,1 @@
+BLOCKLIST = set()   # class of terminated tokens, if someone try to use one token of this list it will not work for him.
