@@ -6,3 +6,4 @@ sqlalchemy
 flask_sqlalchemy
 passlib
 Flask-Migrate
+gunicorn
